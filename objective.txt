@@ -1,0 +1,2 @@
+# Part 1 - Calculate the factorial of a given number
+# Part 2 Find the number of trailing zeros in that factorial
